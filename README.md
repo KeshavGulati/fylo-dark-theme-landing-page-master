@@ -27,13 +27,13 @@ Users should be able to:
 
 ### Screenshot
 
-[](./Solution-Desktop.png)
-[](./Solution-Mobile.png)
+[Solution Desktop](./Solution-Desktop.png)
+[Solution Mobile](./Solution-Mobile.png)
 
 ### Links
 
-- Git repo URL: [](https://github.com/KeshavGulati/fylo-dark-theme-landing-page-master)
-- Live Site URL: [](https://keshavgulati.github.io/fylo-dark-theme-landing-page-master/)
+- Git repo URL: [https://github.com/KeshavGulati/fylo-dark-theme-landing-page-master](https://github.com/KeshavGulati/fylo-dark-theme-landing-page-master)
+- Live Site URL: [https://keshavgulati.github.io/fylo-dark-theme-landing-page-master/](https://keshavgulati.github.io/fylo-dark-theme-landing-page-master/)
 
 ## My process
 
