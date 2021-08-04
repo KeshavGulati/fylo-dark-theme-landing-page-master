@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Screenshot
 
-[Solution Desktop](./Solution-Desktop.png)
-[Solution Mobile](./Solution-Mobile.png)
+- [Solution Desktop](./Solution-Desktop.png)
+- [Solution Mobile](./Solution-Mobile.png)
 
 ### Links
 
