@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Git repo URL: [https://github.com/KeshavGulati/fylo-dark-theme-landing-page-master](https://github.com/KeshavGulati/fylo-dark-theme-landing-page-master)
-- Live Site URL: [https://keshavgulati.github.io/fylo-dark-theme-landing-page-master/](https://keshavgulati.github.io/fylo-dark-theme-landing-page-master/)
+- Live Site URL: [https://keshavgulati.github.io/fylo-dark-theme-landing-page-master/](https://keshavgulati.github.io/fylo-dark-theme-landing-page-master/Solution/index.html)
 
 ## My process
 
